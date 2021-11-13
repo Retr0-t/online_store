@@ -8,7 +8,7 @@ if (!isset($_SESSION["LOGIN"])&&$_SESSION["LOGIN"]== false) {
 <!DOCTYPE html>
 
 <head>
-	<title>CATALOG BARANG</title>
+	<title>CATALOG </title>
 		<link rel="stylesheet" href="assets/css/bootstrap.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="assets/js/bootstrap.js "></script>
